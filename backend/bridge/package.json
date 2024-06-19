@@ -34,7 +34,7 @@
     "pg": "^8.0.2",
     "pg-hstore": "^2.3.3",
     "sequelize": "^5.21.6",
-    "socket.io": "^2.4.0",
+    "socket.io": "^2.5.0",
     "uuid": "^7.0.3"
   },
   "engines": {
